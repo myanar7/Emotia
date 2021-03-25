@@ -1,5 +1,4 @@
-# BUMBLEBEE COFFEE TRUCK
+# Emotia Game
  
- Welcome to My First Android Studio Experience. 
- I will share here to control the project by other devices. And i will update the files one by one.
+ <a href="https://play.google.com/store/apps/details?id=com.kaslica.emotia"> <img src="https://github.com/myanar7/bumblebee/blob/master/Introduction/logo.png" width="100"> </a>
  
