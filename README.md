@@ -11,19 +11,19 @@ Explain what the letters can't tell!
 
 Test your
 
-*Movie knowledge
-*Series knowledge
-*Game knowledge
-*Book knowledge
+* Movie knowledge
+* Series knowledge
+* Game knowledge
+* Book knowledge
 
 among the more than a hundred content.
 
 ## 4 DIFFERENT CATEGORIES:
 Choose the categories that you want to play in among four categories.
-*Movies
-*Series
-*Video Games
-*Books
+* Movies
+* Series
+* Video Games
+* Books
 
 ## Description
 
