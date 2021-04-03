@@ -6,7 +6,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.kaslica.emotia"> <img src="https://freeiconshop.com/wp-content/uploads/edd/google-play-badge-128x128.png" width="350"> </a>  |  <a href="https://youtu.be/lV4YY5EIFOI"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/800px-YouTube_full-color_icon_%282017%29.svg.png" width="250"> </a>
  
 ## MARKER VS GUESSERS
-Challange your friends in the emotia!
+Challenge your friends in the emotia!
 Explain what the letters can't tell!
 
 Test your
@@ -27,4 +27,4 @@ Choose the categories that you want to play in among four categories.
 
 ## Description
 
-In the emotia game, we offer enjoyable time to spend with your friends and family to you. Parties,camping nightes,quarantines,breaktimes won't be boring anymore.Select the categories and the assignments together and try to remember the correct one among the selected. You can pass the assignment but do not forget that we never recommend it.First estimation is 10 points, the second one is 8 points and the last one is 6 points.If you don't take any estimation you get 0 points. Each player has 3 game turn that they will describe the assigment . In the end of the game, the player has the most point will be the winner of the emotia.
+In the emotia game, we offer enjoyable time to spend with your friends and family. Parties, camping nights, quarantines, breaktimes won't be boring anymore. Select the categories and the assignments together and try to remember the correct one among the selected. You can pass the assignment but do not forget that we never recommend it. The first estimation is 10 points, the second one is 8 points and the last one is 6 points. If you don't take any estimation you get 0 points. Each player has 3 game turn that they will describe the assignment. At the end of the game, the player who has the most point will be the winner of the emotia.
