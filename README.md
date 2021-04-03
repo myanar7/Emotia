@@ -28,3 +28,5 @@ Choose the categories that you want to play in among four categories.
 ## Description
 
 In the emotia game, we offer enjoyable time to spend with your friends and family. Parties, camping nights, quarantines, breaktimes won't be boring anymore. Select the categories and the assignments together and try to remember the correct one among the selected. You can pass the assignment but do not forget that we never recommend it. The first estimation is 10 points, the second one is 8 points and the last one is 6 points. If you don't take any estimation you get 0 points. Each player has 3 game turn that they will describe the assignment. At the end of the game, the player who has the most point will be the winner of the emotia.
+
+![](https://drive.google.com/file/d/1EOo3kNsfXowY-8ks41jUuvrPvmQM7Xmk/view?usp=sharing)
