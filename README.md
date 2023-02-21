@@ -7,7 +7,7 @@
  
 ## MARKER VS GUESSERS
 Challenge your friends in the emotia!
-Explain what the letters can't tell!
+Explain what the letters can't tell!!
 
 Test your
 
